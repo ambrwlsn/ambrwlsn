@@ -1,4 +1,12 @@
-### Hi there 👋
+<div>
+    <img src="./rabbity-eat.gif" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./rabbity-sleep.gif" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./rabbity-working.gif" />
+</div>
+<br />
+GIFs by me <span role="img" aria-label="alien monster">👾</span>
 
 <!--
 **ambrwlsn/ambrwlsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
